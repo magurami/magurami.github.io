@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Eksternal</title>
+ayambakar bang jago
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body style="background-color: pink">
