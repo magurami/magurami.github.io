@@ -10,7 +10,7 @@
 	    <div class="HomeBar">
     <nav>
         <ul class="tab">
-            <li class="tt"><a href="putra.html">profile</a></li>
+            <li class="tt"><a href="poetra-project.md">profile</a></li>
             <li class="kkk"><p></p></a></li>
             <li class="latest"><a href="pages/making-readmes-readable.md">Halaman</a></li>    
      </nav>
