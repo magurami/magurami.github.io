@@ -12,7 +12,7 @@
         <ul class="tab">
             <li class="tt"><a href="putra.html">profile</a></li>
             <li class="kkk"><p></p></a></li>
-            <li class="latest"><a href="contoh.html">Halaman</a></li>    
+            <li class="latest"><a href="pages/making-readmes-readable.md">Halaman</a></li>    
      </nav>
     </div>
 	<div class="poetra">
