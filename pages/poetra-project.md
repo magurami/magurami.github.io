@@ -16,7 +16,7 @@
 	    <div class="HomeBar">
     <nav>
         <ul class="tab">
-            <li class="tt"><a href="putra.html">Profile</a></li>
+            <li class="tt"><a href="poetra-project.md">Profile</a></li>
             <li class="kkk"><p></p></a></li>
             <li class="latest"><a href="contoh.html">Halaman</a></li>    
      </nav>
