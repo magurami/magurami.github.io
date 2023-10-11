@@ -1,0 +1,147 @@
+/* Reset all
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+    background-color: rgb(60, 126, 250);
+    font: 16px/28px fantasy;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	background-image: url(img/bg1.png);
+	background-size: 50vw;
+	background-attachment: fixed;
+}
+
+.HomeBar {
+	height: 10%;
+	position: fixed;
+	left: 0vw;
+	right: 0vw;
+	background-color: rgb(181, 100, 227);
+	padding: 1%;
+	box-sizing: border-box;
+	border-bottom: 0.5vw solid rgb(0, 0, 0);
+    z-index: 5;
+}
+
+.HomeBar .tt {
+	font-size: 3.7735849056603774vw;
+	font-weight: bold;
+	position: absolute;
+}
+
+
+.HomeBar a {
+	text-decoration: none;
+	color: black;
+}
+
+.HomeBar .tt a {
+	color: rgb(127, 0, 255);
+	display: block;
+	margin: 0.7% 2%;
+	position: fixed;
+	-webkit-text-stroke: 1px rgb(0, 0, 0);
+    transition: 0.3s ease-in-out;
+}
+
+.HomeBar .tt a:hover {
+	color: rgb(139, 14, 14);
+	display: block;
+    transition: 0.3s ease-in-out;
+}
+
+.HomeBar a {
+	text-decoration: none;
+	color: black;
+}
+
+.HomeBar a:hover{
+	color: aliceblue;
+}
+
+
+.poetra img{
+	display: block;
+	width: 25%;
+}
+
+.poetra {
+	width: 60.377%; 
+	margin:86px auto;
+	background-color: white;
+	text-align: justify;
+	font-family: serif;
+}	
+.poetra p h2 a {
+	text-align: center;
+	color: red;
+}
+
+
+.center {
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 50%;   
+}
+.kkk {
+	margin-top: 9.5%
+}
+
+.latest a{
+	margin-left: 250%;
+	color: blue;
+	font-size: 2.9vw;
+
+	font-weight: bold;
+}
+
+.HomeBar ul {
+	position: absolute;
+}
